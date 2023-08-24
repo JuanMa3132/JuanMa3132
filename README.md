@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @JuanMa3132
-- 👀 I’m interested in learn programming
-- 🌱 I’m currently learning web development and other languages ​​like python and java.
-- 💞️ I am looking to collaborate in projects related to OOP and any company with software development projects
-- 📫 How to reach me for email, my email is "ivan13gamer@gmail.com"
-- 🌍 My native language is Spanish but i can speak english, currently i’m studyng this language because i think’s important for my carrier
+- 👋 Hola, soy @JuanMa3132.
+- 👀 Estoy interesado en aprender programación.
+- 🌱 Actualmente estoy aprendiendo desarrollo web y otros lenguajes como Python y Java.
+- 💞️ Estoy buscando colaborar en proyectos relacionados con la programación orientada a objetos (OOP) y cualquier empresa que tenga proyectos de desarrollo de software.
+- 📫 Puedes contactarme por correo electrónico, mi dirección es "ivan13gamer@gmail.com".
+- 🌍 Mi lengua materna es el español, pero también hablo inglés. Actualmente estoy estudiando este idioma porque creo que es importante para mi carrera.
 
 <!---
 JuanMa3132/JuanMa3132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
