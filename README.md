@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo Python y Java.
 - 📫 Puedes contactarme por correo electrónico, mi dirección es "ivan.rodriguezbusiness15@gmail.com".
-- 🌍 Mi lengua materna es el español, pero también hablo inglés. Actualmente estoy estudiando este idioma porque creo que es importante para mi carrera.
+- 🌍 Mi lengua materna es el español, pero también hablo un poco inglés. Actualmente estoy estudiando este idioma porque creo que es importante para mi carrera.
 
 <!---
 JuanMa3132/JuanMa3132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
