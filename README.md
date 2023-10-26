@@ -4,7 +4,7 @@
 </div>
 
 - 🌱 Actualmente estoy aprendiendo Python y Java.
-- 📫 Puedes contactarme por correo electrónico, mi dirección es "ivan13gamer@gmail.com".
+- 📫 Puedes contactarme por correo electrónico, mi dirección es "ivan.rodriguezbusiness15@gmail.com".
 - 🌍 Mi lengua materna es el español, pero también hablo inglés. Actualmente estoy estudiando este idioma porque creo que es importante para mi carrera.
 
 <!---
