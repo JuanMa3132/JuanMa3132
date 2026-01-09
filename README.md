@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,express,github,html,java,js,mysql,vscode,intellij&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,express,github,html,java,js,mysql,vscode,elasticsearch,idea&perline=14" />
   </a>
 </p>
 
